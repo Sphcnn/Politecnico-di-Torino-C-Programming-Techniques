@@ -1,0 +1,1 @@
+add_executable(recursive_calculation recursive_calculation.c)
